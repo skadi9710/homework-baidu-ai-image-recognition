@@ -5,12 +5,11 @@ from aip import AipImageClassify
 import threading
 import base64
 
-# ========== 请替换成你自己的信息 ==========
 APP_ID = '122664654'
 API_KEY = 'x5qdr1pnGYhlQCmk7FTTWk58'
 SECRET_KEY = 'q9eIWAI17QMHwJnESEqYGybkgZNM4EZS'
-STUDENT_ID = '202335020644'  # 改成你的学号
-STUDENT_NAME = '谢书云'  # 改成你的姓名
+STUDENT_ID = '202335020644'  
+STUDENT_NAME = '谢书云'  
 
 
 # =======================================
